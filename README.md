@@ -2,7 +2,7 @@
 
 This Python module provides a simple and extensible Turing Machine emulator.
 
-It is designed as an educational tool, and I plan to extend it to feature higher-level implementations (with functions such as seek etc.).
+It is designed as an educational tool, and I plan to extend it to feature higher-level implementations (with functions such as seek etc.), as well as adding methods to load TMs from files.
 
 > For more comprehensive documentation, [click here!](./docs/TuringMachine.md)
 
